@@ -8,17 +8,10 @@
 
 ## 🔗 Project Links
 
-- 📄 **기획서**    
-  👉 <a href="https://www.figma.com/deck/6irwv1qNXooL2BzOl1OsOT" target="_blank">기획서 바로가기</a>
-
-- 🎨 **디자인**    
-  👉 <a href="https://www.figma.com/design/SsP6DWrFjImVIl5autmaDN/%EC%97%90%EC%8A%A4%ED%8C%8C-%EB%8B%AC%ED%85%90%EB%8F%84%EB%A6%AC%EB%89%B4%EC%96%BC?node-id=0-1&t=1EGCoIr7S4DjklFw-1" target="_blank">디자인 시안 페이지 바로가기</a>
-
-- 🌐 **배포 링크**  
-  👉 <a href="https://wadzuswl.github.io/project04/" target="_blank">리뉴얼 홈페이지 바로가기</a>
-
-- 🕹️ **기존 홈페이지**  
-  👉 <a href="https://www.nintendo.com/kr/" target="_blank">기존 홈페이지 바로가기</a>
+- 📄 **기획서** 👉 [기획서 바로가기](https://www.figma.com/deck/6irwv1qNXooL2BzOl1OsOT) -
+- 🎨 **디자인** 👉 [디자인 시안 페이지 바로가기](https://www.figma.com/design/SsP6DWrFjImVIl5autmaDN/%EC%97%90%EC%8A%A4%ED%8C%8C-%EB%8B%8C%ED%85%90%EB%8F%84%EB%A6%AC%EB%89%B4%EC%96%BC?node-id=0-1&t=1EGCoIr7S4DjklFw-1) -
+-  🌐 **배포 링크** 👉 [리뉴얼 홈페이지 바로가기](https://wadzuswl.github.io/project04/) -
+-  🕹️ **기존 홈페이지** 👉 [기존 홈페이지 바로가기](https://www.nintendo.com/kr/)
 
 <br>
 
